@@ -8,6 +8,8 @@ Author: [Sqrt404](https://github.com/Sqrt404)
 `F2`:  快速锁定
 `LeftControl+LeftShift+Z`: 显示/隐藏窗口
 
+本软件使用了双重锁定来保护用户的电脑：软件自身的全屏防护和系统自带的锁定，所以建议用户给自己的电脑也设一个密码。
+
 
 ## 原理
  - 通过键盘钩子、冻结 `winlogon.exe` 以禁用大部分快捷键（包括 `Control + Alt + Delete`）
