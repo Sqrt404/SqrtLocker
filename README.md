@@ -5,6 +5,8 @@ Author: [Sqrt404](https://github.com/Sqrt404)
 
 ## 使用方式
 
+### 密码要求：10至20位，大小写英文+数字
+
 `F2`:  快速锁定
 `LeftControl+LeftShift+Z`: 显示/隐藏窗口
 
