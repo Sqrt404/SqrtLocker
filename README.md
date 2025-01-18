@@ -1,7 +1,7 @@
 # SqrtLocker
 一个防机惨的软件/Prevent malicious offline operation of software on your computer by others
 
-Author: [$\color{black}{\textsf{Sqrt404}}$](https://github.com/Sqrt404)
+Author: [Sqrt404](https://github.com/Sqrt404)
 
 ## 使用方式
 
