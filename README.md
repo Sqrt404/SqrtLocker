@@ -3,6 +3,8 @@
 
 Author: [Sqrt404](https://github.com/Sqrt404)
 
+[![Page Views Count](https://badges.toozhao.com/badges/01JK2B4X16DQVQX3BKNPEGCPQK/blue.svg)](https://badges.toozhao.com/stats/01JK2B4X16DQVQX3BKNPEGCPQK "Get your own page views count badge on badges.toozhao.com")
+
 ## 使用方式
 
 ### 密码要求：10至20位，大小写英文+数字
